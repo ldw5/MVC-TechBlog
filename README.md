@@ -15,7 +15,7 @@ You’ll need to use the [express-handlebars](https://www.npmjs.com/package/expr
 
 You’ll also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use environment variables, the [bcrypt package](https://www.npmjs.com/package/bcrypt) to hash passwords, and the [express-session](https://www.npmjs.com/package/express-session) and [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) packages to add authentication.
 # Usage
-in order to use this app, runs in the terminal and Heroku
+In order to use this app, runs in the terminal and Heroku
 # License
 This project is licensed under the MIT license.
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
